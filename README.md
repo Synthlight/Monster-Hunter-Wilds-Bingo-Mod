@@ -68,3 +68,6 @@ Things you will need to do after import:
 - Change palico to standby.
 - Customize items sets, item wheels, settings, whatever.
 - Save, exit, and backup your now-prepped save file.
+
+Save location if you don't know:<br>
+`Steam\userdata\{your Steam ID}\2246340\remote\win64_save`
