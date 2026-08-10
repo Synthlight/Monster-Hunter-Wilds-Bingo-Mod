@@ -49,6 +49,7 @@ To import/overwrite your current save with the Bingo save template:
 - Expand `Script Generated GUI`.
 - Expand `Save Data Import/Export`.
 - Press `Refresh Saves List`.
+- Select the same save slot you just loaded the game into!
 - Expand and check only these import items:<br>
 ![Import Settings](Import%20Settings.png)
 - Click `Import`, select `Bingo Save Import.json` from wherever you put it.
