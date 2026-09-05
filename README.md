@@ -44,7 +44,8 @@ To import/overwrite your current save with the Bingo save template:
 - Install REFramework (hereafter 'REF').
 - Install https://www.nexusmods.com/monsterhunterwilds/mods/2522
 - Save `Bingo Save Import.json` somewhere. I'd suggest the game dir as the importer opens with that as the initial directory.
-- Load up the game, load into the save you with to alter.
+- Edit the JSON; change the name under `_BasicData.CharName` (or Ctrl+F `CHANGE_MY_NAME`) to whatever you want, else your name will become `CHANGE_MY_NAME` on import.
+- Load up the game; load into the save you wish to alter.
 - Open REF (`insert` key by default).
 - Expand `Script Generated GUI`.
 - Expand `Save Data Import/Export`.
