@@ -32,7 +32,7 @@
        - "Paralysis Tree" changed to Lala B. (It uses Lala parts for most of it, just doesn't have the mon in the name.)
 
 # Installation
---
+---
 - DL `Bingo Brawlers.zip`.
 - Install through Fluffy Mod Manager.
 
